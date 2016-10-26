@@ -1,0 +1,21 @@
+* {
+  background-color: DimGrey;
+  font-family: Open Sans, sans-serif;
+}
+div.main {
+  width: 800px;
+  margin: 0 auto;
+}
+h1 {
+  color: Goldenrod;
+}
+p {
+  color: White;
+}
+button {
+  color: white;
+  border: 0;
+}
+input {
+  color: Goldenrod;
+}
